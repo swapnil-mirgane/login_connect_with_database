@@ -30,10 +30,7 @@
 
 ### download postgresql
 
-```bash
 [Download-postgresql](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads) Click to Download-postgresql.
-
-```
 
 ```bash
 $ postgres sql :
