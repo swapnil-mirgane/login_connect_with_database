@@ -28,10 +28,10 @@
 
 ## dependency database
 
-# download postgresql
+### download postgresql
 
 ```bash
-link download postgresql:  https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
+[Download-postgresql](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads) Click to Download-postgresql.
 
 ```
 
