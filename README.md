@@ -28,6 +28,13 @@
 
 ## dependency database
 
+# download postgresql
+
+```bash
+link download postgresql:  https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
+
+```
+
 ```bash
 $ postgres sql :
               Create database login
