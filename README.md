@@ -26,10 +26,20 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+## dependency database
+
+```bash
+$ postgres sql :
+              Create database login
+
+```
+
 ## Installation
 
 ```bash
 $ npm install
+$ npm i typeorm
+$ npm i @nestjs/typeorm typeorm pg @nestjs/config
 ```
 
 ## Running the app
@@ -45,17 +55,10 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-## Test
+## frontend
 
 ```bash
-# unit tests
-$ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
+just open login.html page
 ```
 
 ## Support
